@@ -22,15 +22,15 @@ Welcome to my GitHub profile! 🚀
 
 ## 📂 My Projects
 
-- 🎯 [My Portfolio Website](https://sasivishnu.github.io/portfolio)
-- 🧠 [Project 1 - AI Tool](https://github.com/Sasivishnu/project1)
-- 📊 [Project 2 - Dashboard App](https://github.com/Sasivishnu/project2)
+- 🎯 [My Portfolio Website](https://sasivishnu12345.github.io/portfolio)
+- 🧠 [Project 1 - AI Tool](https://github.com/Sasivishnu12345/project1)
+- 📊 [Project 2 - Dashboard App](https://github.com/Sasivishnu12345/project2)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sasivishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasivishnu&show_icons=true&theme=radical)
+![Sasivishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasivishnu12345&show_icons=true&theme=radical)
 
 ---
 
