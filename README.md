@@ -36,8 +36,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasivishnu)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasivishnu-s-624034294/)
+[![Email](https://img.shields.io/badge/-sasivishnu19@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sasivishnu19@gmail.com)
 
 ---
 
