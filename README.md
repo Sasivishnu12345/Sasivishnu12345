@@ -22,8 +22,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 📂 My Projects
 
-- 🎯 [My Portfolio Website](https://sasivishnu12345.github.io/portfolio)
-- 🧠 [Alumni Management System](https://github.com/Sasivishnu12345/Alumni-Management-System)
+- 🎯 [My Portfolio Website](https://sasivishnu12345/portfolio)
+- 🧠 [Alumni Management System](https://github.com/Sasivishnu12345/portfolio)
 - 📊 [Blood Bank App](https://github.com/Sasivishnu12345/Blood-Bank-Web-Application)
 
 ---
