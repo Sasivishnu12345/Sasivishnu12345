@@ -32,7 +32,9 @@ Welcome to my GitHub profile! 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasivishnu12345&show_icons=true&theme=radical&cache_seconds=60)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sasivishnu12345&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
